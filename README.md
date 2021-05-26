@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - Java
 - MyAQL
 - Postgres
-- 
+
 
 ### GitHub stats
 
