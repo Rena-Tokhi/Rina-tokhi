@@ -21,9 +21,15 @@ Here are some ideas to get you started:
 ### skills 
 - HTML
 - CSS
+- Bootstrap
+- SCSS
 - JavaScript 
+- Jquery
 - PHP
 - Java
+- MyAQL
+- Postgres
+- 
 
 ### GitHub stats
 
