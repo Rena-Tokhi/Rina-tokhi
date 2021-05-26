@@ -29,6 +29,17 @@ Here are some ideas to get you started:
 - Java
 - MySQL
 - Postgres
+- React JS
+- Next JS
+- Node
+- Express
+- Laravel
+- Firebase
+- Headless cms
+- Material ui
+- Tailwind css
+- Flutter
+- 
 
 
 ### GitHub stats
