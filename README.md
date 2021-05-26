@@ -8,8 +8,8 @@ I am Rina Tokhi , web developer .
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... ACAA (Afghanistan Civil Aviation Authority)
-- 🌱 I’m currently learning ...  React JS 
-- 👯 I’m looking to collaborate on ... React JS 
+- 🌱 I’m currently learning ...  Deno
+- 👯 I’m looking to collaborate on ... Deno
 - 📫 How to reach me: ... 
 [ <img src="https://img.icons8.com/fluent/35/000000/facebook-new.png"/> Facebook ](https://www.facebook.com/rina.tokhi.3) 
 [ <img src="https://img.icons8.com/fluent/35/000000/twitter.png"/> Twitter ](https://twitter.com/RinaTokhi)
