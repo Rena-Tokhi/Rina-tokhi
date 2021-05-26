@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - Jquery
 - PHP
 - Java
-- MyAQL
+- MySQL
 - Postgres
 
 
