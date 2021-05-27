@@ -1,6 +1,16 @@
-### Hi there , Here is What I'm Working On 👋
+<h1 align="center">Hi there ,I'm Rina Tokhi 👋 .</h1>
 
-I am Rina Tokhi , web developer .
+Rina Tokhi ,  web developer in AFG .
+ Here is What I'm Working On 
+
+
+<h3 align="center">A passionate software engineer playing around with various fields</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravener&label=Profile%20views&color=0e75b6&style=flat" alt="ravener" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravener" alt="ravener" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/ravenravener" target="blank"><img src="https://img.shields.io/twitter/follow/ravenravener?logo=twitter&style=for-the-badge" alt="ravenravener" /></a> </p>
 
 
 
