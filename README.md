@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 [ <img src="https://img.icons8.com/fluent/35/000000/facebook-new.png"/> Facebook ](https://www.facebook.com/rina.tokhi.3) 
 [ <img src="https://img.icons8.com/fluent/35/000000/twitter.png"/> Twitter ](https://twitter.com/RinaTokhi)
 
-- ⚡ Fun fact: ... I am half finnish  😉
+- ⚡ Fun fact: ... I am half finnish  😈
 
 
 
