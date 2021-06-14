@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 - Postgres
 - React JS
 - Next JS
+- Angular
 - python
 - Node
 - Express
