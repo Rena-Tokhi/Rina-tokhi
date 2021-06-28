@@ -36,13 +36,21 @@ Rina Tokhi ,  web developer  in AFG .
 - Material ui
 - Tailwind css
 
-<table>
-  <tr>
-     <td>
-        ![Rina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rina-Tokhi&theme=algolia&show_icons=true&bg_color=00000000&hide_border=true)
-     </td>
-     <td>
-       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rina-Tokhi&show_icons=true&theme=algolia&bg_color=00000000&hide_border=true)
-     </td>  
-  </tr>
+
+
+
+ 
+<table >
+<tr>
+   <td>
+
+![Rina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rina-Tokhi&theme=algolia&show_icons=true&bg_color=00000000&hide_border=true)
+  
+   </td>
+   <td>
+      
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rina-Tokhi&show_icons=true&theme=algolia&bg_color=00000000&hide_border=true)
+   
+  </td>  
+</tr>
 <table>
