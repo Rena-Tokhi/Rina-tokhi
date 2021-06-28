@@ -24,7 +24,7 @@
    
   <table>
  <tr>
-   <td  colspan="2" > SKIELS </td>
+   <td  colspan="2" > MY SKILLS  </td>
    
 </tr>
 <tr >
