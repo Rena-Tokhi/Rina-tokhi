@@ -1,10 +1,7 @@
 <a herf="https://github.com/Rina-Tokhi"> <h1 align="center" >Hi there ,I'm Rina Tokhi 👋 .</h1> </a>
 
 
-<table>
- <tr>
-  <td>
-  
+
  Rina Tokhi ,  web developer  in AFG .
  Here is What I'm Working On 
    <hr width = "70%">
@@ -18,9 +15,7 @@
 
 - ⚡ Fun fact: ... I am half finnish  😈
   
-  </td>
-  <td>
-   
+ 
    
   <table>
  <tr>
@@ -69,9 +64,8 @@
 </tr>
 </table>
  
-  </td>
- </tr>
-
+ 
+<table>
 <tr>
    <td>
 
