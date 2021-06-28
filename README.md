@@ -1,7 +1,13 @@
-<h1 align="center" >Hi there ,I'm Rina Tokhi 👋 .</h1>
+<a herf="https://github.com/Rina-Tokhi"> <h1 align="center" >Hi there ,I'm Rina Tokhi 👋 .</h1> </a>
 
-Rina Tokhi ,  web developer  in AFG .
+
+<table>
+ <tr>
+  <td>
+  
+ Rina Tokhi ,  web developer  in AFG .
  Here is What I'm Working On 
+   <hr width = "70%">
 
 - 🔭 I’m currently working on ... ACAA (Afghanistan Civil Aviation Authority)
 - 🌱 I’m currently learning ...  Deno and Flutter
@@ -11,36 +17,61 @@ Rina Tokhi ,  web developer  in AFG .
 [ <img src="https://img.icons8.com/fluent/35/000000/twitter.png"/> Twitter ](https://twitter.com/RinaTokhi)
 
 - ⚡ Fun fact: ... I am half finnish  😈
-
-
-
-### skills 
-- HTML
-- CSS
-- Bootstrap
-- SCSS
-- JavaScript 
-- Jquery
-- PHP
-- Java
-- MySQL
-- Postgres
-- React JS
-- Next JS
-- Angular
-- python
-- Node
-- Express
-- Firebase
-- Headless cms
-- Material ui
-- Tailwind css
-
-
-
-
+  
+  </td>
+  <td>
+   
+   
+  <table>
+ <tr>
+   <td  colspan="2" > SKIELS </td>
+   
+</tr>
+<tr >
+   <td> HTML </td>
+   <td> CSS </td>  
+</tr>
+ <tr>
+   <td>Bootstrap </td>
+   <td>SCSS </td>  
+</tr>
+  <tr>
+   <td>JavaScript  </td>
+   <td>Jquery </td>  
+</tr>
+  <tr>
+   <td> PHP </td>
+   <td>Java </td>  
+</tr>
+  <tr>
+   <td>MySQL </td>
+   <td>Postgres </td>  
+</tr>
+   <tr>
+   <td> React JS </td>
+   <td>Next JS </td>  
+</tr>
+   <tr>
+   <td>Angular </td>
+   <td>Postgres </td>  
+</tr>
+   <tr>
+   <td> Express </td>
+   <td> Firebase </td>  
+</tr> 
+ <tr>
+   <td>Headless cms </td>
+   <td> Material ui </td>  
+</tr>
+  <tr>
+   <td>Tailwind css </td>
+   <td> .... </td>  
+</tr>
+</table>
  
-<table >
+  </td>
+ </tr>
+
 <tr>
    <td>
 
@@ -53,4 +84,4 @@ Rina Tokhi ,  web developer  in AFG .
    
   </td>  
 </tr>
-<table>
+</table>
