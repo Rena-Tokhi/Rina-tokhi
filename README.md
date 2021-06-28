@@ -48,5 +48,5 @@ Here are some ideas to get you started:
 
 ### Top Languages 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rina-Tokhi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rina-Tokhi&show_icons=true&theme=chartreuse-dark)
 
