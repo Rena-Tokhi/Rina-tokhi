@@ -1,10 +1,10 @@
-<a herf="https://github.com/Rina-Tokhi"> <h1 align="center" >Hi there ,I'm Rina Tokhi 👋 .</h1> </a>
+ <h1 align="center" >Hi there ,I'm Rina Tokhi 👋 .</h1> 
 
 
 
  Rina Tokhi ,  web developer  in AFG .
  Here is What I'm Working On 
-   <hr width = "70%">
+   <hr width = "60%">
 
 - 🔭 I’m currently working on ... ACAA (Afghanistan Civil Aviation Authority)
 - 🌱 I’m currently learning ...  Deno and Flutter
@@ -17,13 +17,13 @@
   
  
    
-  <table>
+  <table >
  <tr>
    <td  colspan="2" > MY SKILLS  </td>
    
 </tr>
-<tr >
-   <td> HTML </td>
+<tr width = "100%">
+   <td > HTML </td>
    <td> CSS </td>  
 </tr>
  <tr>
@@ -64,7 +64,8 @@
 </tr>
 </table>
  
- 
+
+  
 <table>
 <tr>
    <td>
