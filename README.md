@@ -27,14 +27,16 @@
 </table>
 
 -  🤖 I work in ACAA (Afghanistan Civil Aviation Authority)
+-  📫  Born in Afghanistan   <img  src="https://img.icons8.com/color/50/000000/afghanistan-flag-circle.png" width="17"/>
+-  ⚡ Fun fact: ... I am half finnish  😈
 
+ <hr width = "60%">
+ 
 
-- 👯 I’m looking to collaborate on ... Deno
 - 📫 How to reach me: ... 
 [ <img src="https://img.icons8.com/fluent/35/000000/facebook-new.png"/> Facebook ](https://www.facebook.com/rina.tokhi.3) 
 [ <img src="https://img.icons8.com/fluent/35/000000/twitter.png"/> Twitter ](https://twitter.com/RinaTokhi)
 
-- ⚡ Fun fact: ... I am half finnish  😈
   
  
    
