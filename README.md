@@ -3,6 +3,7 @@
  Rina Tokhi ,  web developer  in AFG .
  Here is What I'm Working On 
  <hr width = "60%">
+ <hr width = "60%">
 
 - 🌱 I’m currently learning Web Development Technologies  <img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" alt="Flutter" width="25" height="25" />   Flutter and<img src="https://user-images.githubusercontent.com/6702424/79351107-900eb300-7f38-11ea-8272-91ff725d29f3.png" alt="react" width="50" height="25" /> Deno
 
@@ -31,9 +32,10 @@
 -  ⚡ Fun fact: ... I am half finnish  😈
 
  <hr width = "60%">
+ <hr width = "60%">
  
 
-## How to reach me
+## How to reach me :
 
 
 [![Gmail Badge](https://img.shields.io/badge/-Rina.Tokhi7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](mailto:ing.Rina.Tokhi7@gmail.com)
@@ -41,7 +43,19 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Rina-Tokhi)](https://github.com/Rina-Tokhi)
 [![Twitter Badge](https://img.shields.io/badge/-@RinaTokhi-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=RinaTokhi "Follow on Twitter")
 
-   <hr>
+ <hr width = "60%">
+ <hr width = "60%">
+
+## ⚡ Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 
  
    
