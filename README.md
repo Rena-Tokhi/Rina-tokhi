@@ -71,6 +71,10 @@
 ![Next js](https://img.shields.io/badge/-Next%20js-000000?style=plastic-square&logo=Next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=plastic-square&logo=Angular&logoColor=white)
 
+![Express](https://img.shields.io/badge/-Express-000000?style=plastic-square&logo=Express&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=plastic-square&logo=Firebase&logoColor=white)
+
+
 
    
   <table >
