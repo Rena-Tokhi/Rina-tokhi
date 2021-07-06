@@ -78,11 +78,6 @@
 
    
   <table >
-
-   <tr>
-   <td> Express </td>
-   <td> Firebase </td>  
-</tr> 
  <tr>
    <td>Headless cms </td>
    <td> Material ui </td>  
