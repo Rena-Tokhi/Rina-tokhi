@@ -108,7 +108,22 @@
  
 <hr width = "60%">
 <hr width = "60%">
-  
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-105-blue)
+
+**👩🏼‍💻 My Github Data** 
+
+
+> 🏆 223 Contributions in the Year 2021
+ >  
+> 📜 18 Public Repositories 
+ > 
+> 🔑 5 Private Repositories  
+
+
+<hr width = "60%">
+<hr width = "60%">
+
 <table>
 <tr>
    <td>
