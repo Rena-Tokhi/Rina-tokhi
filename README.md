@@ -68,7 +68,7 @@
   <table >
 
   <tr>
-   <td> PHP </td>
+   <td> Tailwind css </td>
    <td>Java </td>  
 </tr>
   <tr>
@@ -91,10 +91,7 @@
    <td>Headless cms </td>
    <td> Material ui </td>  
 </tr>
-  <tr>
-   <td>Tailwind css </td>
-   <td> .... </td>  
-</tr>
+
 </table>
  
 <hr width = "60%">
