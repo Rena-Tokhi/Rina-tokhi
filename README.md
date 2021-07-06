@@ -68,6 +68,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic-square&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=plastic-square&logo=PostgreSQL&logoColor=white)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?style=plastic-square&logo=React&logoColor=white)
+![Next js](https://img.shields.io/badge/-Next%20js-61DAFB?style=plastic-square&logo=Next.js&logoColor=white)
+
 
 
 
