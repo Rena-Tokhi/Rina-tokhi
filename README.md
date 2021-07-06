@@ -78,10 +78,6 @@
    
   <table >
    <tr>
-   <td> React JS </td>
-   <td>Next JS </td>  
-</tr>
-   <tr>
    <td>Angular </td>
    <td>Postgres </td>  
 </tr>
