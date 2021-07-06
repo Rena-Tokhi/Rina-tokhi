@@ -62,25 +62,11 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic-square&logo=github)
 
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=plastic-square&logo=PHP&logoColor=white)
+
    
   <table >
-<!--  <tr>
-   <td  colspan="2" > MY SKILLS  </td>
-   
-</tr> -->
-<!-- <tr width = "100%">
-   <td > HTML </td>
-   <td> CSS </td>  
-</tr> -->
- <tr>
-<!--    <td>Bootstrap </td> -->
-<!--    <td>SCSS </td>   -->
-</tr>
-  <tr>
-<!--    <td>JavaScript  </td> -->
-<!--       <td>SCSS </td>  
-   <td>Jquery </td>   -->
-</tr>
+
   <tr>
    <td> PHP </td>
    <td>Java </td>  
