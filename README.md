@@ -7,6 +7,7 @@
 
 - 🌱 I’m currently learning Web Development Technologies  <img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" alt="Flutter" width="25" height="25" />   Flutter and<img src="https://user-images.githubusercontent.com/6702424/79351107-900eb300-7f38-11ea-8272-91ff725d29f3.png" alt="react" width="50" height="25" /> Deno
 
+-  🎓 I'm a Computer Science student
 -  🤖 I work in ACAA (Afghanistan Civil Aviation Authority)
 -  📫  Born in Afghanistan   <img  src="https://img.icons8.com/color/50/000000/afghanistan-flag-circle.png" width="17"/>
 -  ⚡ Fun fact: ... I am half finnish  😈
