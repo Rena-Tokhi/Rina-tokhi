@@ -67,6 +67,11 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=plastic-square&logo=Tailwind%20CSS&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic-square&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=plastic-square&logo=PostgreSQL&logoColor=white)
+![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?style=plastic-square&logo=React&logoColor=white)
+
+
+
+
 
    
   <table >
