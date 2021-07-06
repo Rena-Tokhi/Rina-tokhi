@@ -72,16 +72,9 @@
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=plastic-square&logo=Angular&logoColor=white)
 
 
-
-
-
-
    
   <table >
-   <tr>
-   <td>Angular </td>
-   <td>Postgres </td>  
-</tr>
+
    <tr>
    <td> Express </td>
    <td> Firebase </td>  
