@@ -50,7 +50,7 @@
  <hr width = "60%">
  <hr width = "60%">
 
-## ⚡ Technologies
+## ⚡ Languages & Frameworks & Tools & Abilities
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic-square&logo=javascript&logoColor=white)
 ![Jquery](https://img.shields.io/badge/-jQuery-0769AD?style=plastic-square&logo=jQuery&logoColor=white)
