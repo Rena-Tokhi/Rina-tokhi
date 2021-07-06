@@ -74,19 +74,6 @@
 ![Express](https://img.shields.io/badge/-Express-000000?style=plastic-square&logo=Express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=plastic-square&logo=Firebase&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=plastic-square&logo=Material-UI&logoColor=white)
-
-
-
-
-
-   
-  <table >
- <tr>
-   <td>Headless cms </td>
-   <td> Material ui </td>  
-</tr>
-
-</table>
  
 <hr width = "60%">
 <hr width = "60%">
