@@ -66,16 +66,8 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=plastic-square&logo=Java&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=plastic-square&logo=Tailwind%20CSS&logoColor=white)
 
-
-
-
    
   <table >
-
-  <tr>
-   <td> Tailwind css </td>
-   <td>Java </td>  
-</tr>
   <tr>
    <td>MySQL </td>
    <td>Postgres </td>  
