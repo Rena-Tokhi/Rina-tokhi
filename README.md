@@ -70,10 +70,6 @@
 
    
   <table >
-  <tr>
-   <td>MySQL </td>
-   <td>Postgres </td>  
-</tr>
    <tr>
    <td> React JS </td>
    <td>Next JS </td>  
