@@ -74,6 +74,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=plastic-square&logo=Firebase&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=plastic-square&logo=Material-UI&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic-square&logo=Python&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=plastic-square&logo=JSON&logoColor=white)
  
 <hr width = "60%">
 <hr width = "60%">
