@@ -75,6 +75,10 @@
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=plastic-square&logo=Material-UI&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic-square&logo=Python&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=plastic-square&logo=JSON&logoColor=white)
+![Visual-Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=plastic-square&logo=Visual-Studio&logoColor=white)
+
+
+Visual Studio
  
 <hr width = "60%">
 <hr width = "60%">
