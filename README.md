@@ -28,6 +28,7 @@
       
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rina-tokhi&theme=algolia&bg_color=00000000&hide_border=true&repo=TailwindCSS-Recipes)](https://github.com/Rina-Tokhi/TailwindCSS-Recipes)
    
+   
   </td>  
 </tr>
 </table>
@@ -100,7 +101,8 @@
    </td>
    <td>
       
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rina-Tokhi&show_icons=true&theme=algolia&bg_color=00000000&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rina-Tokhi&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=algolia&bg_color=00000000)
+
    
   </td>  
 </tr>
