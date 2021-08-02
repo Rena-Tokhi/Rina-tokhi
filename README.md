@@ -79,6 +79,9 @@
 ![Visual-Studio-Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=plastic-square&logo=Visual-Studio-Code&logoColor=white)
 
 ![Sublime-Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=plastic-square&logo=Sublime-Text&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=plastic-square&logo=npm&logoColor=white)
+
+
 
 
  
