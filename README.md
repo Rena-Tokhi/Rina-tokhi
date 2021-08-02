@@ -78,6 +78,8 @@
 ![Visual-Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=plastic-square&logo=Visual-Studio&logoColor=white)
 ![Visual-Studio-Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=plastic-square&logo=Visual-Studio-Code&logoColor=white)
 
+![Sublime-Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=plastic-square&logo=Sublime-Text&logoColor=white)
+
 
  
 <hr width = "60%">
