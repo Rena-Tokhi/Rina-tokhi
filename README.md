@@ -5,8 +5,8 @@
  <hr width = "60%">
  <hr width = "60%">
 
-- 🌱 I’m currently learning Web Development Technologies  <img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" alt="Flutter" width="25" height="25" />   Flutter and<img src="https://user-images.githubusercontent.com/6702424/79351107-900eb300-7f38-11ea-8272-91ff725d29f3.png" alt="react" width="50" height="25" /> Deno
-
+<!-- - 🌱 I’m currently learning Web Development Technologies  <img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" alt="Flutter" width="25" height="25" />   Flutter and<img src="https://user-images.githubusercontent.com/6702424/79351107-900eb300-7f38-11ea-8272-91ff725d29f3.png" alt="react" width="50" height="25" /> Deno
+ -->
 -  🎓 I'm a Computer Science student
 -  🤖 I work in ACAA (Afghanistan Civil Aviation Authority)
 -  📫  Born in Afghanistan   <img  src="https://img.icons8.com/color/50/000000/afghanistan-flag-circle.png" width="17"/>
@@ -67,22 +67,21 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=plastic-square&logo=Tailwind%20CSS&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic-square&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=plastic-square&logo=PostgreSQL&logoColor=white)
-![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?style=plastic-square&logo=React&logoColor=white)
+<!-- ![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?style=plastic-square&logo=React&logoColor=white) -->
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=plastic-square&logo=Angular&logoColor=white)
-
-![Express](https://img.shields.io/badge/-Express-000000?style=plastic-square&logo=Express&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=plastic-square&logo=Firebase&logoColor=white)
-![Material-UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=plastic-square&logo=Material-UI&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic-square&logo=Python&logoColor=white)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=plastic-square&logo=JSON&logoColor=white)
 ![Visual-Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=plastic-square&logo=Visual-Studio&logoColor=white)
 ![Visual-Studio-Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=plastic-square&logo=Visual-Studio-Code&logoColor=white)
-
 ![Sublime-Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=plastic-square&logo=Sublime-Text&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=plastic-square&logo=npm&logoColor=white)
 
 
 
+
+<!-- ![Express](https://img.shields.io/badge/-Express-000000?style=plastic-square&logo=Express&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=plastic-square&logo=Firebase&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=plastic-square&logo=Material-UI&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic-square&logo=Python&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=plastic-square&logo=JSON&logoColor=white) -->
 
  
 <hr width = "60%">
