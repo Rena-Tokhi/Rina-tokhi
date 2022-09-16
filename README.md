@@ -10,7 +10,7 @@
 -  🎓 I'm a Computer Science student
 -  🤖 I work in ACAA (Afghanistan Civil Aviation Authority)
 -  📫  Born in Afghanistan   <img  src="https://img.icons8.com/color/50/000000/afghanistan-flag-circle.png" width="17"/>
--  ⚡ Fun fact: ... I am half finnish  😈
+
 
 🚀 Some of my main projects:
 
