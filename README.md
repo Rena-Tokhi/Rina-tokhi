@@ -43,7 +43,7 @@
 ## How to reach me :
 
 
-[![Gmail Badge](https://img.shields.io/badge/-Rina.Tokhi7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](mailto:ing.Rina.Tokhi7@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Tokhi.rena@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](mailto:ing.Rina.Tokhi7@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-RinaTokhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rina-tokhi-6274b2213/)](https://www.linkedin.com/in/rina-tokhi-6274b2213/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Rina-Tokhi)](https://github.com/Rina-Tokhi)
 [![Twitter Badge](https://img.shields.io/badge/-@RinaTokhi-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=RinaTokhi "Follow on Twitter")
